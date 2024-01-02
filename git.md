@@ -46,7 +46,8 @@ Git仓库：github/gitee
 
 3、如果要提交到远程仓库 git push 
 
-![image-20240102162701934](C:\Users\USER\Desktop\image-20240102162701934.png)
+![image-20240102162701934](https://github.com/Ray-wzm/Git-/assets/62834324/a744d6bc-e169-4f7b-a9a4-864ee284a1af)
+
 
 1、创建全新的仓库
 
@@ -60,7 +61,8 @@ github/gitee，输入命令 ```git clone (url)```
 
 本地代码先通过 git add 添加到暂存区，然后 git commit -m "xxx"提交。-m为提交内容注释
 
-![image-20240102165642696](C:\Users\USER\Desktop\image-20240102165642696.png)
+![image-20240102165642696](https://github.com/Ray-wzm/Git-/assets/62834324/500198d0-d7f0-44ef-b316-ad6d923e3e61)
+
 
 3、分支（不同功能同时开发）
 
